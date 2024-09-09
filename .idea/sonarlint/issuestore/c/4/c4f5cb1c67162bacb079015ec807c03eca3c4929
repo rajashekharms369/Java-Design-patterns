@@ -1,0 +1,12 @@
+
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ÖÆÿûÿÿÿÿ8‰ÚŸŠ2
+\
+java:S1854":Remove this useless assignment to local variable "status".(«ñÍ•ûÿÿÿÿ8ŠÚŸŠ2
+T
+java:S1172"2Remove this unused method parameter "claimAmount".(„ÖÆÿûÿÿÿÿ8ŠÚŸŠ2
+M
+java:S1481"+Remove this unused "status" local variable.(«ñÍ•ûÿÿÿÿ8‹ÚŸŠ2
+H
+java:S1481"+Remove this unused "reason" local variable.(Ç‚É8‹ÚŸŠ2
+L	java:S106"+Replace this use of System.out by a logger.(›œòİıÿÿÿÿ8‹ÚŸŠ2
+G	java:S106"+Replace this use of System.out by a logger.(†‚8ŒÚŸŠ2
