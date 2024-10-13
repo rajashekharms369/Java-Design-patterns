@@ -1,7 +1,0 @@
-
-L	java:S106
-"+Replace this use of System.out by a logger.(­ï´Ìÿÿÿÿÿ8Ş©©©÷1
-Q
-java:S1128"/Remove this unused import 'java.sql.SQLOutput'.(ê¤òÃùÿÿÿÿ8ß©©©÷1
-E
-java:S1068")Remove this unused "value" private field.(ÉŠH8ä©©©÷1
