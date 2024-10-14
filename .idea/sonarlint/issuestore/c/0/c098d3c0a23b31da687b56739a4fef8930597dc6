@@ -1,9 +1,0 @@
-
-k
-java:S1104"UMake modelName a static final constant or non-public and provide accessors if needed.(ÒÁùÜ
-k
-java:S1104"UMake basePrice a static final constant or non-public and provide accessors if needed.(ç¾º
-r
-java:S1104"WMake onRoadPrice a static final constant or non-public and provide accessors if needed.(³†§Íùÿÿÿÿ
-i
-java:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(šÕâ„

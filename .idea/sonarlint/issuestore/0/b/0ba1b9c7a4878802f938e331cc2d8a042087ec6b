@@ -1,22 +1,2 @@
 
-k
-java:S1192"NDefine a constant instead of duplicating this literal "Total cost: $" 7 times.(πψ΄β8όγν›2
-™
-java:S1130"}Remove the declaration of thrown exception 'java.lang.CloneNotSupportedException', as it cannot be thrown from method's body.(ΒτP8ωδξ›2
-L	java:S106"+Replace this use of System.out by a logger.(–™ΰόÿÿÿÿ8όγν›2
-G	java:S106"+Replace this use of System.out by a logger.(ΤΧΝθ8όγν›2
-G	java:S106"+Replace this use of System.out by a logger.(πψ΄β8™όγν›2
-G	java:S106"+Replace this use of System.out by a logger.(±‘¬8όγν›2
-G	java:S106"+Replace this use of System.out by a logger.(πψ΄β8›όγν›2
-G	java:S106"+Replace this use of System.out by a logger.(®¥΄8›όγν›2
-G	java:S106"+Replace this use of System.out by a logger.(πψ΄β8όγν›2
-L	java:S106"+Replace this use of System.out by a logger.(ς½¦€όÿÿÿÿ8όγν›2
-L	java:S106""+Replace this use of System.out by a logger.(ε°¶ϊÿÿÿÿ8όγν›2
-G	java:S106$"+Replace this use of System.out by a logger.(δ”8όγν›2
-G	java:S106*"+Replace this use of System.out by a logger.(πψ΄β8όγν›2
-G	java:S106,"+Replace this use of System.out by a logger.(δΫΎΩ8όγν›2
-G	java:S1060"+Replace this use of System.out by a logger.(πψ΄β8όγν›2
-G	java:S1062"+Replace this use of System.out by a logger.(ΜϋΊ8 όγν›2
-G	java:S1067"+Replace this use of System.out by a logger.(πψ΄β8΅όγν›2
-F	java:S1069"+Replace this use of System.out by a logger.(Γ¦§;8΅όγν›2
-G	java:S106?"+Replace this use of System.out by a logger.(πψ΄β8ϋιδν›2
+G	java:S106"+Replace this use of System.out by a logger.(΄ό»8΄£μ¤¨2
