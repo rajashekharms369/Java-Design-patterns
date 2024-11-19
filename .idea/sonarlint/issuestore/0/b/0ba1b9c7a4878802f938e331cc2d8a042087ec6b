@@ -1,2 +1,10 @@
 
-G	java:S106"+Replace this use of System.out by a logger.(΄ό»8τΪώ¤®2
+z
+java:S1192"]Define a constant instead of duplicating this literal "Checking the current state: " 4 times.(³Φδ8Ξ£ª³2
+G	java:S106"+Replace this use of System.out by a logger.(–ωξ8¤ª³2
+L	java:S106	"+Replace this use of System.out by a logger.(£Λ―ζωÿÿÿÿ8’¤ª³2
+L	java:S106"+Replace this use of System.out by a logger.(–ΨΞ«ϋÿÿÿÿ8”¤ª³2
+G	java:S106"+Replace this use of System.out by a logger.(³Φδ8—¤ª³2
+G	java:S106"+Replace this use of System.out by a logger.(³Φδ8›¤ª³2
+G	java:S106"+Replace this use of System.out by a logger.(³Φδ8¤ª³2
+G	java:S106'"+Replace this use of System.out by a logger.(³Φδ8Ά¤ª³2

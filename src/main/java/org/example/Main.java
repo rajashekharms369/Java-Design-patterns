@@ -36,6 +36,6 @@ public class Main {
         // Switching off the TV now.
         tv.executeOffButton();
 
-        System.out.println("Checking the current state: " + tv.getCurrentState());
+        System.out.println("Checking the current state: " + tv.getCurrentState());a
     }
 }
